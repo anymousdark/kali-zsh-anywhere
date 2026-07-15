@@ -1,0 +1,1 @@
+# kali-zsh-anywhere
