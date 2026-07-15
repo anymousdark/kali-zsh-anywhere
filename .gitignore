@@ -1,0 +1,9 @@
+# Backups gerados pelo próprio script
+*.zshrc.bak.*
+
+# Diretórios temporários
+tmp/
+*.tmp
+
+# Sistema
+.DS_Store
