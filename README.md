@@ -47,7 +47,7 @@ chmod +x install.sh
 ### Instalação em uma linha (sem clonar o repo)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/SEU_USUARIO/kali-zsh-anywhere/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/anymousdark/kali-zsh-anywhere.git/main/install.sh | bash
 ```
 
 > Troque `SEU_USUARIO` pelo seu usuário/organização do GitHub depois de publicar o repositório.
