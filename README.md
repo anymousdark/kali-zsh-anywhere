@@ -20,7 +20,7 @@ Linux compatível** — Debian, Ubuntu, Arch, Fedora, openSUSE, Alpine e derivad
 ## Uso rápido
 
 ```bash
-https://github.com/anymousdark/kali-zsh-anywhere.git
+git clone https://github.com/anymousdark/kali-zsh-anywhere.git
 cd kali-zsh-anywhere
 chmod +x install.sh
 ./install.sh
